@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
   }
+div {
+    border-radius: 20px;
+    background-color: rgb(72, 156, 229);
+  }
   body {
     display: flex;
     justify-content: center;
